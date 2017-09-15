@@ -1,6 +1,6 @@
 <?php
 
-use RCB001;
+require_once('RetornoRCB001.php');
 
 //header('Content-Type: application/json');
 
